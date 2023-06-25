@@ -1,1 +1,3 @@
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat natus fugiat placeat officiis error corrupti exercitationem, facere dicta magnam consectetur, nulla vero similique quibusdam, ratione praesentium. Ea voluptatibus ullam numquam!
+# Esse e o novo texto do arquivo README.md
+
+Aqui neste arquivo README.md teremos as informações relativas ao nosso projeto;
